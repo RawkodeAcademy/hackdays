@@ -1,40 +1,26 @@
-# Rawkode Academy Hackdays
+# Rawkode Academy Hackdays: Window of opportunity
 
-> **Work in Progress**
-
-This document outlines the idea of asynchronous hackdays for the community of Rawkode Academy.
-
-## Basic idea
-- Everyone is invited, not just the people of Rawkode Academy
-- 2-4 weeks of time
-- Groups of 2 or more
-  - Randomized
-  - People who don't know each other
-- Using a programming language or framework or technology that you haven't use before
-  - Fulltime Java developer but coding an IRC server in Elixir
-  - Rust enthusiast, but code a particle library in Vanilla Javascript
-- OSS suitable license
-  - MIT
-  - WTFPL
-- The result will be presented after the given time is over
+- When: August 2022
+- Topic: Window of opportunity
+  > You're stuck in a time loop of finding a hideous bug. Some form of software can help you find the root cause. What software might that be?
+- How to participate?
+  - Create a Github repository with the topic `p4x-639` or search a project where you want to participate [here](https://github.com/topics/p4x-639)
+  - Choose one of the [ideas](#ideas) or come up with your own
+  - Come to the [Rawkode Academy Discord](https://rawkode.chat/) and take a look at `#hackdays` channel
+- The results will be presented in any form you want:
   - Video on YouTube / Twitch
   - Blog post
-  - README.md in the projects repository
+  - README file inside the repository
+- There are prizes to win
+  - There will be categories
+    > will be chosen after having an overview over the ideas
+  - The community votes for winners in the different categories
+  - Prizes are yet to be announced
+- Some more information:
+  - It would be cool to choose people with whom you didn't work before
+  - Choose a technology or language which you're not an expert in
+  - Comtrya for reading that far! See you in August :)
 
-## Implementation
-- When: Starting 1st of August for 2-4 weeks
-- Groups of 2 or more (preferred)
-  - People can pitch their topic and people can join them
-- Theme: Window of opportunity
-  - You're stuck in a time loop of finding a hideous bug. Some form of software can help you find the root cause. What software might that be?
-  - Some ideas:
-    - Tooling for better http call tracing
-    - Interactive CLI for Grafana metrics
-    - ...
-- Language / framwork choice should be something you haven't used before
-- The result will be presented after the given time is over
-  - Video on YouTube / Twitch
-  - Blog post
-  - README.md in the projects repository 
-- The community votes for the best 3 solutions
-- The winners receive a prize
+## Ideas
+- Tooling for better HTTP call tracing inside k8s clusters
+- Interactive cli for Grafana metrics
