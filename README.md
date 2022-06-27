@@ -24,3 +24,4 @@
 ## Ideas
 - Tooling for better HTTP call tracing inside k8s clusters
 - Interactive cli for Grafana metrics
+- Yet another uptime monitoring, with dogs and - [status.dog](https://github.com/status-dog)
