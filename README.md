@@ -9,6 +9,9 @@
   - Come to the [Rawkode Academy Discord](https://rawkode.chat/) and take a look at `#hackdays` channel
   - Choose one of the projects from the [ideas](#ideas) section and ask the "captain" if you can join
 - A weekly "All hands" will be held to ask questions and gather input
+- What to submit at the end?
+  - A repository with a description (e.g. README.md) of how to run the piece of software
+  - (Optional) a 5 minute demo video
 - The results will be presented in any form you want:
   - Video on YouTube / Twitch
   - Blog post
