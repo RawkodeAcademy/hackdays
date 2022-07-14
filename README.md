@@ -4,9 +4,11 @@
 - Topic: Window of opportunity
   > You're stuck in a time loop of finding a hideous bug. Some form of software can help you find the root cause. What software might that be?
 - How to participate?
-  - Create a Github repository with the topic `p4x-639` or search a project where you want to participate [here](https://github.com/topics/p4x-639)
-  - Choose one of the [ideas](#ideas) or come up with your own
+  - Create an [issue](https://github.com/RawkodeAcademy/hackdays/issues) with the prefix `Submission:` and describe your project and link your repository
+    - Create a Github repository with the topic `p4x-639`
   - Come to the [Rawkode Academy Discord](https://rawkode.chat/) and take a look at `#hackdays` channel
+  - Choose one of the projects from the [ideas](#ideas) section and ask the "captain" if you can join
+- A weekly "All hands" will be held to ask questions and gather input
 - The results will be presented in any form you want:
   - Video on YouTube / Twitch
   - Blog post
@@ -21,7 +23,8 @@
   - Choose a technology or language which you're not an expert in
   - Comtrya for reading that far! See you in August :)
 
-## Ideas
-- Tooling for better HTTP call tracing inside k8s clusters
-- Interactive cli for Grafana metrics
+## Ideas with captains
 - Yet another uptime monitoring, with dogs and - [status.dog](https://github.com/status-dog)
+  - Captain [icepuma](https://github.com/icepuma)
+  - Find me at the [Rawkode Academy Discord](https://rawkode.chat/)
+- ...
