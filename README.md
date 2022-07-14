@@ -26,6 +26,9 @@
   - Choose a technology or language which you're not an expert in
   - Comtrya for reading that far! See you in August :)
 
+## I don't know where to start? Please help me find an idea!
+No worries, join the [Rawkode Academy Discord](https://rawkode.chat/) and ask for help in our `#hackdays` channel.
+
 ## Ideas with captains
 - Yet another uptime monitoring, with dogs and - [status.dog](https://github.com/status-dog)
   - Captain [icepuma](https://github.com/icepuma)
