@@ -6,6 +6,7 @@
 - How to participate?
   - Create an [issue](https://github.com/RawkodeAcademy/hackdays/issues) with the prefix `Submission:` and describe your project and link your repository
     - Create a Github repository with the topic `p4x-639`
+    - The license should be [OSI](https://opensource.org/licenses) approved
   - Come to the [Rawkode Academy Discord](https://rawkode.chat/) and take a look at `#hackdays` channel
   - Choose one of the projects from the [ideas](#ideas) section and ask the "captain" if you can join
 - A weekly "All hands" will be held to ask questions and gather input
