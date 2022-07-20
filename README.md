@@ -34,4 +34,6 @@ No worries, join the [Rawkode Academy Discord](https://rawkode.chat/) and ask fo
 - Yet another uptime monitoring, with dogs and - [status.dog](https://github.com/status-dog)
   - Captain [icepuma](https://github.com/icepuma)
   - Find me at the [Rawkode Academy Discord](https://rawkode.chat/)
+- Live embedded System debugger
+  - Captain [martintc](https://github.com/martintc)
 - ...
