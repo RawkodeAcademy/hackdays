@@ -3,12 +3,13 @@
 - When: August 2022
 - Topic: Window of opportunity
   > You're stuck in a time loop of finding a hideous bug. Some form of software can help you find the root cause. What software might that be?
-- How to participate?
+- How to submit a project?
   - Create an [issue](https://github.com/RawkodeAcademy/hackdays/issues) with the prefix `Submission:` and describe your project and link your repository
     - Create a Github repository with the topic `p4x-639`
     - The license should be [OSI](https://opensource.org/licenses) approved
-  - Come to the [Rawkode Academy Discord](https://rawkode.chat/) and take a look at `#hackdays` channel
-  - Choose one of the projects from the [ideas](#ideas) section and ask the "captain" if you can join
+- How to join an existing project?
+  - Choose one of the projects from the [submissions](https://github.com/RawkodeAcademy/hackdays/issues) list and comment and ask if you can join
+  - Ask around at [Rawkode Academy Discord](https://rawkode.chat/)
 - A weekly "All hands" will be held to ask questions and gather input
 - What to submit at the end?
   - A repository with a description (e.g. README.md) of how to run the piece of software
@@ -30,10 +31,5 @@
 ## I don't know where to start? Please help me find an idea!
 No worries, join the [Rawkode Academy Discord](https://rawkode.chat/) and ask for help in our `#hackdays` channel.
 
-## Ideas with captains
-- Yet another uptime monitoring, with dogs and - [status.dog](https://github.com/status-dog)
-  - Captain [icepuma](https://github.com/icepuma)
-  - Find me at the [Rawkode Academy Discord](https://rawkode.chat/)
-- Live embedded System debugger
-  - Captain [martintc](https://github.com/martintc)
-- ...
+## Submissions
+Find all submissions [here](https://github.com/RawkodeAcademy/hackdays/issues) :)
