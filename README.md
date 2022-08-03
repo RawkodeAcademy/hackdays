@@ -33,3 +33,6 @@ No worries, join the [Rawkode Academy Discord](https://rawkode.chat/) and ask fo
 
 ## Submissions
 Find all submissions [here](https://github.com/RawkodeAcademy/hackdays/issues) :)
+
+## Sponsors
+<a href="https://www.civo.com/"><img src="graphics/brand-assets_logo_full-colour_civo-logo-fullcolour.svg" width="100"></a>
