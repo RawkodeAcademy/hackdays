@@ -4,11 +4,11 @@
 - Topic: Community
   > Everything you can imagine helping `rawkode.academy` or any other community is perfect :)
 - How to submit a project?
-  - Create an [issue](https://github.com/RawkodeAcademy/hackdays/issues) with the prefix `Submission:` and describe your project and link your repository
+  - Create an [issue](https://github.com/RawkodeAcademy/hackdays/issues?q=is%3Aissue+is%3Aopen+label%3Ahackdays-january-2023) with the prefix `Submission:` and describe your project and link your repository
     - Create a Github repository with the topic `P3X-972`
     - The license should be [OSI](https://opensource.org/licenses) approved
 - How to join an existing project?
-  - Choose one of the projects from the [submissions](https://github.com/RawkodeAcademy/hackdays/issues) list and comment and ask if you can join
+  - Choose one of the projects from the [submissions](https://github.com/RawkodeAcademy/hackdays/issues?q=is%3Aissue+is%3Aopen+label%3Ahackdays-january-2023) list and comment and ask if you can join
   - Ask around at [Rawkode Academy Discord](https://rawkode.chat/)
 - A weekly "All hands" will be held to ask questions and gather input
 - What to submit at the end?
@@ -34,4 +34,4 @@ No worries, join the [Rawkode Academy Discord](https://rawkode.chat/) and ask fo
 
 ## Submissions
 
-Find all submissions [here](https://github.com/RawkodeAcademy/hackdays/issues) :)
+Find all submissions [here](https://github.com/RawkodeAcademy/hackdays/issues?q=is%3Aissue+is%3Aopen+label%3Ahackdays-january-2023) :)
