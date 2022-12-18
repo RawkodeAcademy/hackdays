@@ -27,7 +27,7 @@
 - Some more information:
   - It would be cool to choose people with whom you didn't work before
   - Choose a technology or language which you're not an expert in
-  - Comtrya for reading that far! See you in August :)
+  - Comtrya for reading that far! See you in January :)
 
 ## I don't know where to start? Please help me find an idea
 
