@@ -1,6 +1,7 @@
 # Rawkode Academy Hackdays: Community
 
 - When: January 2023
+  - Kickoff: 2023-01-05 16:00 GMT @ [Rawkode Academy Discord](https://rawkode.chat/)
 - Topic: Community
   > Everything you can imagine helping `rawkode.academy` or any other community is perfect :)
 - How to submit a project?
